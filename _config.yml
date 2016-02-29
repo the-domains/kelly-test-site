@@ -1,0 +1,28 @@
+name: Kelly Test Site
+favicon: null
+layout_spectrum: 0.19760390603914857
+typography_spectrum: 0.03893873910419643
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3347495999187231
+  lightness: 0.8485371174756438
+  saturation: 0.20894077653065324
+  rhythmicContrast: 0.1716006880160421
+purpose: []
